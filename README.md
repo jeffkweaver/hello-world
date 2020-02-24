@@ -1,2 +1,8 @@
 # hello-world
-first repository
+This is my first repository.
+
+test, test, test...
+
+I like programming...
+
+commit
